@@ -3,6 +3,7 @@ from django.urls import path
 from store.views import index
 from django.conf.urls.static import static
 
+
 from shop import settings
 
 
